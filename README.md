@@ -4,7 +4,7 @@
 
 ## Data Availability
 
-The three ModE-RA NetCDF files ([Valler et al., 2023](https://doi.org/10.26050/WDCC/ModE-RA_s14203-18501)) were provided in the course and are available on request.
+The three ModE-RA NetCDF files ([Valler et al., 2023](https://doi.org/10.26050/WDCC/ModE-RA_s14203-18501)) were provided in the course and are available on request. To request the three course files, [open an issue](https://github.com/chrigell/climatology_III/issues).
 
 [Figure 3](plots/Figure_3_mortality.svg) and the [mortality data](data/Mortality_departure_pct.csv) are adapted from [Pfister and Brázdil (2006, Fig. 6)](https://doi.org/10.5194/cp-2-115-2006) and shared under [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/).
 
@@ -12,7 +12,7 @@ The [vik colour palette](data/vik.txt) by [Crameri (2023)](https://doi.org/10.52
 
 ## Usage
 
-In RStudio, set the working directory to the folder containing `README.md`.
+Download or clone this repository. In RStudio, set the working directory to the folder containing `README.md`.
 
 **Figures 1–2 (climate):** Put the three NetCDF files in `inputs/` next to `README.md`, keeping their original names. The [extraction script](scripts/Extract_ModE_RA_Subset.R) prepares the inputs and the [analysis script](scripts/Famine_1770_Analysis.R) produces the figures. Run these commands in the R console:
 
