@@ -4,7 +4,7 @@ R scripts and figures for the **Climatology III poster** on the famine in Bern a
 
 ## Data Availability
 
-The three ModE-RA NetCDF files were provided in the course. They and the `vik.txt` colour palette are available on request. Keep these files locally: the NetCDFs under their original names in `inputs/`, and the palette at `data/vik.txt`.
+The three ModE-RA NetCDF files were provided in the course and are available on request. To run the climate analysis, place them in `inputs/` with their original filenames.
 
 The [mortality data](data/) were digitised from Pfister and Brázdil (2006, Fig. 6).
 
@@ -29,7 +29,6 @@ Source references:
 - Crameri, F. (2023) *Scientific colour maps*. Version 8.0.1. Zenodo. doi:10.5281/zenodo.8409685.
 - Pfister, C. and Brázdil, R. (2006) ‘Social vulnerability to climate in the “Little Ice Age”: an example from Central Europe in the early 1770s’, *Climate of the Past*, 2, pp. 115–129. [doi:10.5194/cp-2-115-2006](https://doi.org/10.5194/cp-2-115-2006).
 - Valler, V. et al. (2023) *ModE-RA: a global monthly paleo-reanalysis of the modern era (1421 to 2008), Set 1420-3_1850-1*. World Data Center for Climate. doi:10.26050/WDCC/ModE-RA_s14203-18501.
-- Valler, V. et al. (2024) ‘ModE-RA: a global monthly paleo-reanalysis of the modern era 1421 to 2008’, *Scientific Data*, 11, article 36. [doi:10.1038/s41597-023-02733-8](https://doi.org/10.1038/s41597-023-02733-8).
 
 ## Code Overview
 
@@ -39,19 +38,15 @@ Put all three R scripts in [`scripts/`](scripts/). That folder sits next to `REA
 - [`Famine_1770_Analysis.R`](scripts/Famine_1770_Analysis.R) produces Figures 1–2.
 - [`Plot_Mortality.R`](scripts/Plot_Mortality.R) produces Figure 3.
 
-`plots/` contains the poster figures; `data/` contains the mortality CSVs.
+`plots/` contains the poster figures. `data/` contains the mortality CSVs and the [`vik.txt` colour palette](data/vik.txt).
 
 ## License and Disclaimer
 
 The code is provided for academic and reproducibility purposes and accompanies a course poster. No warranty is provided regarding its suitability for operational forecasting or other applications.
 
-<a href="https://example.com">Code</a> © 2026 by <a href="https://example.com">Christian Wenger and Silvia</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/chrigell/climatology_III">Code</a> © 2026 by Christian Wenger and Silvia is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
-| Other material | Licence |
-| --- | --- |
-| [Figure 3](plots/Figure_3_mortality.svg), the [digitised trace](data/Mortality_Fig6_trace.csv) (also embedded in `Plot_Mortality.R`) and the [derived mortality table](data/Mortality_departure_pct.csv). All are adapted from Pfister and Brázdil (2006, Fig. 6, p. 125). | [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/) |
-| ModE-RA source data (Valler et al., 2023). | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| The `vik` palette (Crameri, 2023). | MIT, as stated in the palette distribution. |
+Figure 3 and the mortality CSVs, including the trace embedded in `Plot_Mortality.R`, are adapted from Pfister and Brázdil (2006, Fig. 6) and shared under [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/).
 
 ### AI Use Disclosure
 
