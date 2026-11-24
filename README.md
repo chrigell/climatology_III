@@ -101,7 +101,7 @@ The mortality curves show the percentage difference from each region’s own 176
 
 ## License and Disclaimer
 
-The code is provided for academic and reproducibility purposes. No warranty is provided regarding its suitability for operational forecasting or other applications.
+The code is provided for academic and reproducibility purposes and accompanies a course poster. No warranty is provided regarding its suitability for operational forecasting or other applications.
 
 <a href="https://example.com">Code</a> © 2026 by <a href="https://example.com">Christian Wenger and Silvia</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
@@ -110,8 +110,6 @@ The code is provided for academic and reproducibility purposes. No warranty is p
 | [Figure 3](plots/Figure_3_mortality.svg), the [digitised trace](data/Mortality_Fig6_trace.csv) (also embedded in `Plot_Mortality.R`) and the [derived mortality table](data/Mortality_departure_pct.csv). All are adapted from Pfister and Brázdil (2006, Fig. 6, p. 125). | [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/) |
 | ModE-RA source data (Valler et al., 2023). | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | The `vik` palette (Crameri, 2023). | MIT, as stated in the palette distribution. |
-
-The scripts accompany a course poster and are provided as is, without warranty.
 
 ### AI Use Disclosure
 
