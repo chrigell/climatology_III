@@ -8,7 +8,7 @@ The three ModE-RA NetCDF files ([Valler et al., 2023](https://doi.org/10.26050/W
 
 [Figure 3](plots/Figure_3_mortality.svg) and the [mortality data](data/Mortality_departure_pct.csv) are adapted from [Pfister and Brázdil (2006, Fig. 6)](https://doi.org/10.5194/cp-2-115-2006) and shared under [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/).
 
-The [`vik colour palette](data/vik.txt) by [Crameri (2023)](https://doi.org/10.5281/zenodo.8409685) is included with its [MIT licence](data/vik_LICENCE.pdf).
+The [vik colour palette](data/vik.txt) by [Crameri (2023)](https://doi.org/10.5281/zenodo.8409685) is included with its [MIT licence](data/vik_LICENCE.pdf).
 
 ## Usage
 
