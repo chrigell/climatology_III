@@ -101,7 +101,9 @@ The mortality curves show the percentage difference from each region’s own 176
 
 ## License and Disclaimer
 
-The original contributions to the R scripts and Figures 1–2 are © 2026 the poster authors and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The code is provided for academic and reproducibility purposes. No warranty is provided regarding its suitability for operational forecasting or other applications.
+
+<a href="https://example.com">Code</a> © 2026 by <a href="https://example.com">Christian Wenger and Silvia</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 | Other material | Licence |
 | --- | --- |
