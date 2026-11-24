@@ -4,8 +4,6 @@ R scripts and figures for the **Climatology III poster** on the famine in Bern a
 
 ## Code Overview
 
-These folders sit next to `README.md`:
-
 - [`scripts/`](scripts/): the three R scripts.
 - [`data/`](data/): the mortality CSVs and the [`vik.txt` colour palette](data/vik.txt).
 - [`plots/`](plots/): the three poster figures.
