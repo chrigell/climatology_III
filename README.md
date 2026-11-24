@@ -14,7 +14,7 @@ The [vik colour palette](data/vik.txt) by [Crameri (2023)](https://doi.org/10.52
 
 In RStudio, set the working directory to the folder containing `README.md`.
 
-**Figures 1–2 (climate):** Put the three NetCDF files in `inputs/` next to `README.md`, keeping their original names. Run these commands in the R console:
+**Figures 1–2 (climate):** Put the three NetCDF files in `inputs/` next to `README.md`, keeping their original names. The [extraction script](scripts/Extract_ModE_RA_Subset.R) prepares the inputs and the [analysis script](scripts/Famine_1770_Analysis.R) produces the figures. Run these commands in the R console:
 
 ```r
 install.packages(c("ncdf4", "maps"))  # first time only
@@ -22,7 +22,7 @@ source("scripts/Extract_ModE_RA_Subset.R")
 source("scripts/Famine_1770_Analysis.R")
 ```
 
-**Figure 3 (mortality):** Run `source("scripts/Plot_Mortality.R")` in the R console. No extra files or packages are needed.
+**Figure 3 (mortality):** Run the [mortality script](scripts/Plot_Mortality.R) in the R console with `source("scripts/Plot_Mortality.R")`. No extra files or packages are needed.
 
 New figures and tables go to `results/`.
 
