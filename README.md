@@ -32,7 +32,7 @@ Christian Wenger and Silvia (2026). *The Great Famine of 1770–72: Why did the 
 
 ## License and Disclaimer
 
-The code is provided for academic and reproducibility purposes and accompanies a course poster. No warranty is provided regarding its suitability for operational forecasting or other applications.
+The code is provided for academic and reproducibility purposes and accompanies a course poster. No warranty is provided regarding its suitability for other usage.
 
 **AI use disclosure:** We used ChatGPT (GPT-6.2) for help with the R code. We checked the scripts and their outputs and take responsibility for the final analysis.
 
