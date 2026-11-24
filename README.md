@@ -1,6 +1,6 @@
 # The Great Famine of 1770–72
 
-[R scripts](scripts/) and [figures](plots/) and [figures](data/) for the **Climatology III poster** on the famine in Bern and the Czech Lands.
+[R scripts](scripts/) and [figures](plots/) and [data](data/) for the **Climatology III poster** on the famine in Bern and the Czech Lands.
 
 ## Data Availability
 
