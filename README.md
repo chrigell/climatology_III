@@ -1,6 +1,6 @@
 # The Great Famine of 1770–72
 
-[R scripts](scripts/) and [figures](plots/) and [data](data/) for the **Climatology III poster** on the famine in Bern and the Czech Lands.
+[R scripts](scripts/), [figures](plots/) and [data](data/) for the **Climatology III poster** on the famine in Bern and the Czech Lands.
 
 **Authors:** Silvia Haller and Christian Wenger
 
@@ -40,4 +40,4 @@ The code is provided for academic and reproducibility purposes and accompanies a
 
 **AI use disclosure:** We used ChatGPT (GPT-6.2) for help with the R code. We checked the scripts and their outputs and take responsibility for the final analysis.
 
-<a href="https://github.com/chrigell/climatology_III">Climatology III</a> © 2026 by Christian Wenger and Silvia is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/chrigell/climatology_III">Code</a> © 2026 by Silvia Haller and Christian Wenger is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
