@@ -2,6 +2,8 @@
 
 [R scripts](scripts/) and [figures](plots/) and [data](data/) for the **Climatology III poster** on the famine in Bern and the Czech Lands.
 
+**Authors:** Silvia Haller and Christian Wenger
+
 ## Data Availability
 
 The three ModE-RA NetCDF files ([Valler et al., 2023](https://doi.org/10.26050/WDCC/ModE-RA_s14203-18501)) were provided in the course and are available on request. To request the three course files, [open an issue](https://github.com/chrigell/climatology_III/issues).
