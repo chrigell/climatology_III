@@ -28,8 +28,6 @@ New figures and tables go to `results/`.
 
 ## Citation
 
-## Citation
-
 If you use the scripts, figures or data from this repository, please cite:
 
 Haller, S. and Wenger, C. (2026) *The Great Famine of 1770–72: Why did the food crisis deepen in the Czech Lands while easing in Bern?* [R scripts, figures and mortality data]. Climatology III, University of Bern. [GitHub repository](https://github.com/chrigell/climatology_III).
