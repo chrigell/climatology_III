@@ -177,7 +177,7 @@ plot_crop_windows <- function() {
          col = unname(pal), pt.cex = 1.2, horiz = TRUE, bty = "n",
          cex = 1.2, x.intersp = 0.6, text.col = ink)
   columns <- c("autumn_anomaly_pct", "spring_anomaly_c", "harvest_anomaly_pct")
-  titles <- c("Sowing rain", "Spring temperature", "Harvest rain")
+  titles <- c("Autumn rainfall", "Spring temperature", "Summer rainfall")
   units <- c("Previous Sep\u2013Oct (%)", "Mar\u2013Apr (\u00b0C)", "Jul\u2013Aug (%)")
   for (i in seq_along(columns)) {
     val <- sapply(names(pal), function(r) events[events$region == r, columns[i]])
